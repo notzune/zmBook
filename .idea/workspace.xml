@@ -5,17 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c5607b27-5eef-402e-8fec-791ad88375bd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.github/workflows/changelog_update.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.github/workflows/create_tasks.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.github/workflows/maven-build-and-release.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.github/workflows/remove_tasks.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/create_tasks.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/extract_todos.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/remove_todos.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,14 +27,20 @@
     </option>
   </component>
   <component name="ProjectId" id="2YJRn38nmiBGgY7eR38gyKYYxaV" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "/Users/zeyad/Documents/GitHub/zmBook",
     "settings.editor.selected.configurable": "preferences.pluginManager"
@@ -66,5 +62,8 @@
       <updated>1700241858648</updated>
     </task>
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
