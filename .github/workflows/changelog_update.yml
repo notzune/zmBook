@@ -1,0 +1,32 @@
+name: Generate Changelog
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate-changelog:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+        with:
+          persist-credentials: false # this prevents GitHub actions from overriding
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: '20.x'  # use a stable LTS version
+
+      - name: Clear Node Modules
+        run: rm -rf node_modules
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Generate Changelog and Bump Version
+        env:
+          GITHUB_TOKEN: ${{ secrets.PAT }} # Make sure PAT is configured in your repo settings
+        run: npx semantic-release

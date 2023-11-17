@@ -1,0 +1,27 @@
+name: Remove TODOs on Issue Closure
+
+on:
+  issues:
+    types:
+      - closed
+
+jobs:
+  remove-todo:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out code
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.x
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Remove TODOs
+        run: python remove_todos.py
+        env:
+          GH_TOKEN: ${{ secrets.PAT }}
