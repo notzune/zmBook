@@ -1,0 +1,20 @@
+{
+  "name": "zmbook",
+  "version": "1.0.0",
+  "description": "Compile markdown files into books and websites. Like mdBook but written in Java.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/notzune/zmBook.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/notzune/zmBook/issues"
+  },
+  "homepage": "https://github.com/notzune/zmBook#readme"
+}
