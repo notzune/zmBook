@@ -5,6 +5,64 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c5607b27-5eef-402e-8fec-791ad88375bd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/configuration/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content-renderer/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content-renderer/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content-renderer/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content-renderer/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content-renderer/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content-renderer/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content-renderer/src/main/java/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content-renderer/src/main/java/xyz/zuner/contentrenderer/HelloApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content-renderer/src/main/java/xyz/zuner/contentrenderer/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content-renderer/src/main/resources/xyz/zuner/contentrenderer/hello-view.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file-management/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file-management/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file-management/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file-management/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file-management/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file-management/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file-management/src/main/java/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file-management/src/main/java/xyz/zuner/filemanagement/HelloApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file-management/src/main/java/xyz/zuner/filemanagement/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file-management/src/main/resources/xyz/zuner/filemanagement/hello-view.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graph-visualization/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graph-visualization/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graph-visualization/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graph-visualization/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graph-visualization/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graph-visualization/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graph-visualization/src/main/java/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graph-visualization/src/main/java/xyz/zuner/graphvisualization/HelloApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graph-visualization/src/main/java/xyz/zuner/graphvisualization/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graph-visualization/src/main/resources/xyz/zuner/graphvisualization/hello-view.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/link-management/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/link-management/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/link-management/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/link-management/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/link-management/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/link-management/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/link-management/src/main/java/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/link-management/src/main/java/xyz/zuner/linkmanagement/HelloApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/link-management/src/main/java/xyz/zuner/linkmanagement/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/link-management/src/main/resources/xyz/zuner/linkmanagement/hello-view.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/markdown-processor/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/markdown-processor/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/markdown-processor/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/markdown-processor/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/markdown-processor/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/markdown-processor/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/markdown-processor/src/main/java/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/markdown-processor/src/main/java/xyz/zuner/markdownprocessor/HelloApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/markdown-processor/src/main/java/xyz/zuner/markdownprocessor/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/markdown-processor/src/main/resources/xyz/zuner/markdownprocessor/hello-view.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/script-executor/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/search/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/security/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sync/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +100,11 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
+    "jdk.selected.JAVA_MODULE": "openjdk-21",
     "last_opened_file_path": "/Users/zeyad/Documents/GitHub/zmBook",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
