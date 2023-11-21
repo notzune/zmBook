@@ -29,6 +29,7 @@
     <module>configuration</module>
     <module>database</module>
     <module>security</module>
+    <module>file-conversion</module>
   </modules>
 
   <dependencies>
