@@ -5,24 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c5607b27-5eef-402e-8fec-791ad88375bd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/markdown-processor/src/main/java/xyz/zuner/markdownprocessor/MarkdownParser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/markdown-processor/src/main/java/xyz/zuner/markdownprocessor/ast/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/markdown-processor/src/main/java/xyz/zuner/markdownprocessor/ast/Visitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/markdown-processor/src/main/java/xyz/zuner/markdownprocessor/ast/impl/TextNode.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/configuration/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/configuration/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content-renderer/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/content-renderer/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/database/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/file-conversion/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/file-conversion/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/file-management/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/file-management/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/graph-visualization/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/graph-visualization/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/link-management/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/link-management/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/markdown-processor/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/markdown-processor/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/script-executor/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/script-executor/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/search/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/search/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/security/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/security/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sync/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sync/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ui/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ui/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/markdown-processor/src/main/java/xyz/zuner/markdownprocessor/ast/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/markdown-processor/src/main/java/xyz/zuner/markdownprocessor/ast/Node.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,22 +43,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "jdk.selected.JAVA_MODULE": "openjdk-21",
-    "last_opened_file_path": "/Users/zeyad/Documents/GitHub/zmBook",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.sourceCode.Java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;openjdk-21&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/zeyad/Documents/GitHub/zmBook&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
