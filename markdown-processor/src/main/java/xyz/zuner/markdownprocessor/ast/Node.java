@@ -91,6 +91,8 @@ public abstract class Node {
      * operations to be performed on the node.
      *
      * @param visitor The visitor that performs operations on this node.
+     * @see Visitor
+     * @see <a href="https://en.wikipedia.org/wiki/Visitor_pattern">Visitor Design Pattern (Wikipedia)</a>
      */
     public abstract void accept(Visitor visitor);
 }
